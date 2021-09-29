@@ -5,6 +5,7 @@ Richard |22| Tall
 Angel |20| Short
 Alvin |25| Dark tonned
 Dan |21| Brown eyes
+Tev |26| Short and Dark
 
 
 # Table of contents
