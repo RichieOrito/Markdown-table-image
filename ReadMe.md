@@ -11,7 +11,7 @@ Tev |26| Short and Dark
 # Table of contents
 1. [Introduction](#introduction)
 2. [My Story](#paragraph1)
-    1. [Richard Orito](#subparagraph1)
+   [Richard Orito](#subparagraph1)
 3. [My achivements](#paragraph2)
 4. [My goals](#paragraph3)
 
