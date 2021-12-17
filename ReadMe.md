@@ -28,7 +28,7 @@ i am humbled to be alive
 ## My achivements <a name="paragraph2"></a>
 I've not yet achieved alot in life but am always gratefull at where i am.
 
-## My goals <a name="#paragraph3"></a>
+## My goals <a name="paragraph3"></a>
 
 
 # Insert Image
